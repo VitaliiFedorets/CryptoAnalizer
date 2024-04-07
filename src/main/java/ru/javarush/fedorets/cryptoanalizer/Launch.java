@@ -1,4 +1,4 @@
-package ru.javarush.fedorets.cryptoanalizer;
+package ua.javarush.fedorets.cryptoanalizer;
 
 public class Launch {
     public static void main(String[] args) {
